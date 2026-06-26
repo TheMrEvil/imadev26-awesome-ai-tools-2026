@@ -24,6 +24,7 @@
 AI-powered tools to help you write better code faster.
 
 - **[GitHub Copilot](https://github.com/features/copilot)** - AI pair programmer that suggests code and entire functions in real-time. Supports 70+ languages.
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - **[Cursor](https://cursor.sh/)** - AI-first code editor built on VS Code. Chat with your codebase, generate code, and fix bugs.
 - **[Codeium](https://codeium.com/)** - Free AI code completion tool. Fast, accurate, and supports 70+ languages.
 - **[Tabnine](https://www.tabnine.com/)** - AI code completion that learns from your code. Works offline for privacy.
